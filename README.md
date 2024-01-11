@@ -120,9 +120,9 @@ counter 的count value 也被assign 到io_out 因此可以透過訪問MPRJ_IO ge
 2. 在testbench 中檢測MPRJ-IO output 決定是否測試完成 ex start:0XAB40 receive data: 0xAB41 finish test: 0xAB51 
 ## LAB4 實驗步驟
 LAB4基礎知識 https://hackmd.io/RAv93zJOSK2O11xULdYZOw  
-LAB4-0 https://hackmd.io/40-mJkU4QXSnTSWVEp8S8Q
-LAB4-1 https://hackmd.io/1pRaX0TuSsqfAGmkbzOuSg
-LAB4-2 https://hackmd.io/QnsLppKsS2uIBSVCI-DUgg
+LAB4-0 https://hackmd.io/40-mJkU4QXSnTSWVEp8S8Q  
+LAB4-1 https://hackmd.io/1pRaX0TuSsqfAGmkbzOuSg  
+LAB4-2 https://hackmd.io/QnsLppKsS2uIBSVCI-DUgg  
 
 ## 參考資料
 #### 1. user_design interface - teatbench & firmware
