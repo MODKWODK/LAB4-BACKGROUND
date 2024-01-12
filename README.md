@@ -142,7 +142,19 @@ pass thru -> connect flash可以直接透過mprjio控制flash
 ![image](https://hackmd.io/_uploads/BJAI-POD6.png)
 #### 3.soc的整體架構
 > https://www.youtube.com/watch?v=MBXKNe3kahw&list=PLTA_T2FLzYNDubjvfj4OqfmsxQiUB4CrD
-
+## LAB4 實驗步驟
+LAB4基礎知識   
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/SkC0vJ1UT  
+https://github.com/MODKWODK/LAB4-BACKGROUND  
+LAB4-0  
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/SkC0vJ1UT  
+https://github.com/MODKWODK/LAB4-0-caravel-SOC-simulation-  
+LAB4-1  
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/HybFQWkIT  
+https://github.com/MODKWODK/LAB4-1-Firmware-User-project  
+LAB4-2  
+https://hackmd.io/@861r6vBbQbu3FLGNe3SkyQ/BJXPryyIp  
+https://github.com/MODKWODK/LAB4-2-MIX-LAB3-FIR-LAB4-1-WITH-WISHBOND  
  
 
 
